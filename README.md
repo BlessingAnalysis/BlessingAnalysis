@@ -6,7 +6,7 @@ Welcome to my page I’m currently building projects with real-world datasets to
 ### Technical skills
 * **Programming Languages** Python,SQL
 *  **Data analysis & visualisation** Data Cleaning, Explanatory Data Analysis(ESN),Data Mining,Dashboarding,Reporting
-*  **Tools & Platforms** Power BI,Google Sheets,Microsoft SQL,Github
+*  **Tools & Platforms** Power BI,Google Sheets,Microsoft SQL,Github,  Microsoft Excel
 
 
 
